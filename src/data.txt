@@ -1,0 +1,3 @@
+word hello
+java spark
+streaming hadoop
